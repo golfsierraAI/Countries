@@ -76,7 +76,7 @@ var Header = () => {
   return (
     <div className={classes.root}>
       <div>
-        <a href="">
+        <a href="https://github.com/golfsierraAI/Countries">
           <GitHub className={classes.logo} />
         </a>
       </div>
